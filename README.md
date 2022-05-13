@@ -8,8 +8,8 @@ This is Python3 script that automatically creates certificates for the names giv
         a. You can find the dimensions in the paint application 5. To test with one certificate use this command "python3 main.py test"
 
 
-#Executing the Script
-
+**#Executing the Script
+**
 1. Clone/Download the repo
 2. Navigate into "automatic-bulk-certificate-generator" folder
 3. Create virtual environment by using - "python3 -m venv <environment_name>"
